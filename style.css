@@ -1,0 +1,18 @@
+Body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p {
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
